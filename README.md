@@ -1,9 +1,9 @@
 # Sms 8998
 ![Sms 8998](https://raw.githubusercontent.com/nearchos/Sms8998/main/app/src/main/res/mipmap-hdpi/ic_launcher.png)
 
-A simple app that helps you form and send an SMS to 8998 in line with Cyprus' Ministry of Health measures against the spread of Covid-19.
+A simple app that helps you form and send an SMS to 8998 in line with Cyprus' Ministry of Health [measures against the spread of Covid-19](https://www.pio.gov.cy/coronavirus).
 
-The app has built-in support for Greek ![Image of Greek flag](https://raw.githubusercontent.com/nearchos/Sms8998/main/app/src/main/res/drawable-mdpi/el.png) and English ![Image of US & UK flag](https://raw.githubusercontent.com/nearchos/Sms8998/main/app/src/main/res/drawable-mdpi/en.png). You can easily switch between the two regardless of the language settings of your device.
+The app has built-in language support for Greek ![Image of Greek flag](https://raw.githubusercontent.com/nearchos/Sms8998/main/app/src/main/res/drawable-mdpi/el.png) and English ![Image of US & UK flag](https://raw.githubusercontent.com/nearchos/Sms8998/main/app/src/main/res/drawable-mdpi/en.png). You can easily switch between the two regardless of the language settings of your device.
 
 Developed by [aspectsense.com](https://aspectsense.com).
 
