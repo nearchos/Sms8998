@@ -63,6 +63,13 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    private void visitGithub() {
+        final Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/nearchos/Sms8998"));
+        if (intent.resolveActivity(getPackageManager()) != null) {
+            startActivity(intent);
+        }
+    }
+
     @Override
     public boolean onCreateOptionsMenu(final Menu menu) {
         getMenuInflater().inflate(R.menu.menu_main, menu);
@@ -86,6 +93,7 @@ public class MainActivity extends AppCompatActivity {
                     .setIcon(R.mipmap.ic_launcher)
                     .setMessage(getString(R.string.Developed_by, BuildConfig.VERSION_NAME))
                     .setPositiveButton(R.string.OK, (dialog, which) -> dialog.dismiss())
+                    .setNeutralButton(R.string.Web, (dialog, which) -> { visitGithub(); dialog.dismiss(); })
                     .create()
                     .show();
             return true;

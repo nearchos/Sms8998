@@ -39,7 +39,8 @@
     <string name="Language_el" translatable="false">Γλώσσα</string>
     <string name="Choose" translatable="false">Choose</string>
     <string name="Choose_el" translatable="false">Επιλέξτε</string>
-    <string name="Developed_by" translatable="false">Developed by aspectsense.com\nVersion %1$s</string>
+    <string name="Developed_by" translatable="false">Developed by aspectsense.com\n\nOpen source software\nVersion %1$s</string>
+    <string name="Web" translatable="false">Web</string>
 
     <string name="View_terms_of_use" translatable="false">Terms of use</string>
     <string name="View_terms_of_use_el" translatable="false">Όροι χρήσης</string>
