@@ -8,12 +8,22 @@ Developed by [aspectsense.com](https://aspectsense.com).
 
 ## Releases
 The app is available for Android only:
-- [Download version 1.0-1](https://github.com/nearchos/Sms8998/releases/download/1.0-1/Sms8998-v1.0-1.apk)
+- [Download version 1.0-2](https://github.com/nearchos/Sms8998/releases/download/1.0-2/Sms8998-v1.0-2.apk)
 
 ## Privacy Policy
 The SMS 8998 app takes your privacy very seriously. The collected data is only stored on the device (for your convenience, so you don't need to retype them) and is never sent over the network (except via the actual SMS sent to 8998).
 
 ## Screenshots
+<span>
+<img src="https://raw.githubusercontent.com/nearchos/Sms8998/main/screenshots/1-language.png" title="Language" width="200" />
+<img src="https://raw.githubusercontent.com/nearchos/Sms8998/main/screenshots/2-terms.png" title="Terms of Use" width="200" />
+<img src="https://raw.githubusercontent.com/nearchos/Sms8998/main/screenshots/3-id.png" title="ID" width="200" />
+<img src="https://raw.githubusercontent.com/nearchos/Sms8998/main/screenshots/4-postal-code.png" title="Postal Code" width="200" />
+<img src="https://raw.githubusercontent.com/nearchos/Sms8998/main/screenshots/5-main.png" title="Main Screen" width="200" />
+<img src="https://raw.githubusercontent.com/nearchos/Sms8998/main/screenshots/6-about.png" title="About" width="200" />
+<img src="https://raw.githubusercontent.com/nearchos/Sms8998/main/screenshots/7-send.png" title="Send Preparation" width="200" />
+<img src="https://raw.githubusercontent.com/nearchos/Sms8998/main/screenshots/8-sent.png" title="Sent Confirmation" width="200" />
+</span>
 
 ## FAQ
 - Why isn't it available on Google Play?
