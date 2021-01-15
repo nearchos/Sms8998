@@ -1,4 +1,5 @@
-# Sms8998
+# Sms 8998
+![Sms 8998](https://raw.githubusercontent.com/nearchos/Sms8998/main/app/src/main/res/mipmap-hdpi/ic_launcher.png)
 
 A simple app that helps you form and send an SMS to 8998 in line with Cyprus' Ministry of Health measures against the spread of Covid-19.
 
@@ -8,7 +9,7 @@ Developed by [aspectsense.com](https://aspectsense.com).
 
 ## Releases
 The app is available for Android only:
-- [Download version 1.0-2](https://github.com/nearchos/Sms8998/releases/download/1.0-2/Sms8998-v1.0-2.apk)
+- :rocket: [Download version 1.0-2](https://github.com/nearchos/Sms8998/releases/download/1.0-2/Sms8998-v1.0-2.apk) :thumbsup:
 
 ## Privacy Policy
 The SMS 8998 app takes your privacy very seriously. The collected data is only stored on the device (for your convenience, so you don't need to retype them) and is never sent over the network (except via the actual SMS sent to 8998).
