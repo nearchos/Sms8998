@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="optionHeaders">
+        <item>Pharmacy, Doctor, etc.</item>
+        <item>Supermarket, Take away, etc.</item>
+        <item>Bank</item>
+        <item>Public services</item>
+        <item>Helping people</item>
+        <item>Physical activity</item>
+        <item>Going to a ceremony</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="optionDetails">
+        <item>Going to a pharmacy, visiting a physician or for blood donation or laboratory testing for Covid-19 or for vaccination at the vaccination centres.</item>
+        <item>Going to a shop for essential goods/services, including take away.</item>
+        <item>Going to the bank for transactions not available online.</item>
+        <item>Strictly necessary visits to public services or services of the wider public sector and local authorities.</item>
+        <item>Helping people who cannot take care of themselves or people who must protect themselves or who are in self-isolation and/or in places of compulsory isolation (quarantine).</item>
+        <item>Physical activity or individual sports practiced in areas were access is permitted.</item>
+        <item>Going to a ceremony (e.g. funeral, wedding, christening) of first and second degree relatives not exceeding 10 people or for individual prayer.</item>
+        <item>Any other reason that may be justified under the lockdown measures (by presenting the necessary proof for each case).</item>
+    </string-array>
+
+    <string-array name="optionHeaders_el">
+        <item>Φαρμακείο, Γιατρός, κλπ</item>
+        <item>Υπεραγορά, Take away, κλπ</item>
+        <item>Τράπεζα</item>
+        <item>Κρατικές Υπηρεσίες</item>
+        <item>Παροχή Βοήθειας</item>
+        <item>Φυσική Άσκηση</item>
+        <item>Μετάβαση σε τελετή</item>
+        <item>Άλλο</item>
+    </string-array>
+
+    <string-array name="optionDetails_el">
+        <item>Μετάβαση σε φαρμακείο ή για αιμοδοσία ή επίσκεψη σε γιατρό ή για διενέργεια εργαστηριακής εξέτασης για Covid-19 ή για εμβολιασμό στα κέντρα εμβολιασμού.</item>
+        <item>Μετάβαση σε κατάστημα για αγορά ή προμήθεια αγαθών/υπηρεσιών πρώτης ανάγκης, περιλαμβανομένου και του take away.</item>
+        <item>Μετάβαση σε τράπεζα, στο μέτρο που δεν είναι δυνατή η ηλεκτρονική συναλλαγή.</item>
+        <item>Απόλυτα αναγκαίες επισκέψεις σε κρατικές υπηρεσίες ή υπηρεσίες του ευρύτερου δημόσιου τομέα και της τοπικής αυτοδιοίκησης.</item>
+        <item>Διακίνηση για παροχή βοήθειας σε άτομα που αδυνατούν να αυτοεξυπηρετηθούν ή που οφείλουν να αυτοπροστατευθούν ή βρίσκονται σε αυτοπεριορισμό ή/και σε χώρους υποχρεωτικού περιορισμού (καραντίνα).</item>
+        <item>Μετακίνηση για φυσική άσκηση ή ατομική άθληση, εφόσον περιορίζεται σε χώρους όπου επιτρέπεται η πρόσβαση.</item>
+        <item>Μετάβαση σε τελετή (π.χ. κηδεία, γάμος, βάφτιση) από συγγενείς πρώτου και δεύτερου βαθμού που δεν υπερβαίνουν τον αριθμό των 10 προσώπων ή για ατομική προσευχή</item>
+        <item>Δήλωση οποιουδήποτε άλλου σκοπού μετακίνησης που μπορεί να δικαιολογηθεί με βάση τα μέτρα απαγόρευσης της κυκλοφορίας (με την προσκόμιση του απαραίτητου αποδεικτικού στοιχείου που ισχύει για κάθε περίπτωση). Δεστε την σελίδα του ΓΤΠ.</item>
+    </string-array>
+
+</resources>

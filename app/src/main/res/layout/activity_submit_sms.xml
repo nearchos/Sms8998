@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SubmitSmsActivity">
+
+    <TextView
+        android:id="@+id/textViewOption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/border_yellow"
+        android:padding="10dp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:drawableTopCompat="@drawable/ic_choice"
+        app:drawableTint="@color/purple_200"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/textViewId"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.3"
+        tools:text="1" />
+
+    <TextView
+        android:id="@+id/textViewId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/border_blue"
+        android:padding="10dp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:drawableTopCompat="@drawable/ic_identity"
+        app:drawableTint="@color/purple_200"
+        app:layout_constraintBottom_toBottomOf="@+id/textViewOption"
+        app:layout_constraintStart_toEndOf="@+id/textViewOption"
+        app:layout_constraintEnd_toStartOf="@+id/textViewPostalCode"
+        app:layout_constraintTop_toTopOf="@+id/textViewOption"
+        tools:text="123456" />
+
+    <TextView
+        android:id="@+id/textViewPostalCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/border_red"
+        android:padding="10dp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:drawableTopCompat="@drawable/ic_postal_code"
+        app:drawableTint="@color/purple_200"
+        app:layout_constraintBottom_toBottomOf="@+id/textViewId"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textViewId"
+        app:layout_constraintTop_toTopOf="@+id/textViewId"
+        tools:text="1234" />
+
+    <TextView
+        android:id="@+id/textViewOptionDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:background="@drawable/border_yellow"
+        android:padding="10dp"
+        app:layout_constraintBottom_toTopOf="@+id/textViewId"
+        app:layout_constraintStart_toStartOf="@+id/textViewOption"
+        tools:text="Pharmacy or Doctor etc." />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:background="#770"
+        app:layout_constraintTop_toBottomOf="@id/textViewOptionDescription"
+        app:layout_constraintBottom_toTopOf="@id/textViewOption"
+        app:layout_constraintEnd_toEndOf="@id/textViewOption"
+        app:layout_constraintStart_toStartOf="@id/textViewOption" />
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:background="#777"
+        app:layout_constraintTop_toTopOf="@id/textViewOption"
+        app:layout_constraintBottom_toBottomOf="@id/textViewOption"
+        app:layout_constraintStart_toEndOf="@id/textViewOption"
+        app:layout_constraintEnd_toStartOf="@id/textViewId" />
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:background="#777"
+        app:layout_constraintTop_toTopOf="@id/textViewId"
+        app:layout_constraintBottom_toBottomOf="@id/textViewId"
+        app:layout_constraintStart_toEndOf="@id/textViewId"
+        app:layout_constraintEnd_toStartOf="@id/textViewPostalCode" />
+
+    <Button
+        android:id="@+id/buttonSend"
+        tools:text="@string/Send"
+        android:drawableEnd="@android:drawable/ic_menu_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewId" />
+
+    <ScrollView
+        android:padding="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSend">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageViewOK"
+                android:src="@drawable/ic_check"
+                android:contentDescription="@string/OK"
+                app:tint="#070"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"/>
+
+            <TextView
+                android:id="@+id/textViewPostSmsMessage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:textSize="16sp"
+                tools:text="@string/The_SMS_has_been_sent" />
+
+            <Button
+                android:id="@+id/buttonOK"
+                android:text="@string/OK"
+                android:textColor="?attr/colorPrimary"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

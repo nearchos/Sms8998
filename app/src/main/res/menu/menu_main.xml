@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuSettings"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="ifRoom"
+        android:title="@string/Settings" />
+
+    <item
+        android:id="@+id/menuAbout"
+        android:icon="@drawable/ic_info"
+        app:showAsAction="ifRoom"
+        android:title="@string/About" />
+
+    <item
+        android:id="@+id/menuLanguage"
+        app:showAsAction="never"
+        android:title="@string/Language" />
+
+    <item
+        android:id="@+id/menuTermsOfUse"
+        app:showAsAction="never"
+        android:title="@string/View_terms_of_use" />
+
+</menu>

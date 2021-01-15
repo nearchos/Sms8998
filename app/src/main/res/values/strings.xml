@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">SMS 8998</string>
+
+    <string name="targetSmsNumber">8998</string>
+
+    <string name="Greek" translatable="false">Ελληνικα</string>
+    <string name="English" translatable="false">English</string>
+
+    <string name="AppDescription" translatable="false">This is a simple device automation app allowing you to form, then send an SMS to 8998 as required by the Ministry of Health in Cyprus. Because of this, the app requires a permission to send SMS on your behalf.</string>
+    <string name="AppDescription_el" translatable="false">Αυτή είναι μια απλή εφαρμογή αυτοματοποίησης που σου επιτρέπει να δημιουργήσεις και να στείλεις SMS στο 8998 με βάση τις απαιτήσεις του Υπουργείου Υγείας της Κύπρου. Για αυτό τον λόγο, η εφαρμογή απαιτεί άδεια αποστολής μηνυμάτων SMS. </string>
+
+    <string name="Settings" translatable="false">Settings</string>
+    <string name="Settings_el" translatable="false">Ρυθμίσεις</string>
+    <string name="About" translatable="false">About</string>
+    <string name="About_el" translatable="false">Σχετικά</string>
+    <string name="OK" translatable="false">OK</string>
+
+    <string name="Agree" translatable="false">Agree</string>
+    <string name="Agree_el" translatable="false">Συμφωνω</string>
+    <string name="Disagree" translatable="false">Disagree</string>
+    <string name="Disagree_el" translatable="false">Διαφωνω</string>
+    <string name="Enter_your_identification" translatable="false">Enter your identification number</string>
+    <string name="Enter_your_identification_el" translatable="false">Εισάγετε στοιχεία ταυτοποίησης</string>
+    <string name="Identification_details" translatable="false">This is typically your national ID number or passport number</string>
+    <string name="Identification_details_el" translatable="false">Αυτός είναι συνήθως ο αριθμός ταυτότητας ή διαβατηρίου</string>
+    <string name="idHint" translatable="false">123456</string>
+    <string name="postalCodeHint" translatable="false">1234</string>
+    <string name="Next" translatable="false">Next</string>
+    <string name="Next_el" translatable="false">Επομενο</string>
+    <string name="Id_must_be_6_letters_or_more" translatable="false">The ID must be at least 6 letters or digits long</string>
+    <string name="Id_must_be_6_letters_or_more_el" translatable="false">Τα στοιχεία ταυτοποίησης πρέπει να είναι τουλάχιστον 6 γράμματα ή ψηφία</string>
+    <string name="Enter_your_postal_code" translatable="false">Enter your postal code</string>
+    <string name="Enter_your_postal_code_el" translatable="false">Ειασάγετε τον ταχυδρομικό σας κώδικα</string>
+    <string name="Postal_code_details" translatable="false">This is a four digit number  such as 1234</string>
+    <string name="Postal_code_details_el" translatable="false">Αυτός είναι ένας τετραψήφιος αριθμός όπως το 1234</string>
+    <string name="Postal_code_must_be_4_digits" translatable="false">The Postal Code must be exactly 4 digits such as \'1234\'</string>
+    <string name="Postal_code_must_be_4_digits_el" translatable="false">Ο Ταχυδρομικός Κώδικας πρέπει να είναι ακριβώς 4 ψηφία όπως το \'1234\'</string>
+    <string name="Language" translatable="false">Language</string>
+    <string name="Language_el" translatable="false">Γλώσσα</string>
+    <string name="Choose" translatable="false">Choose</string>
+    <string name="Choose_el" translatable="false">Επιλέξτε</string>
+    <string name="Developed_by" translatable="false">Developed by aspectsense.com\nVersion %1$s</string>
+
+    <string name="View_terms_of_use" translatable="false">Terms of use</string>
+    <string name="View_terms_of_use_el" translatable="false">Όροι χρήσης</string>
+    <string name="Terms_of_use" translatable="false">This is a convenience app. It helps you form and send an SMS message as needed by the Covid-19 measures adopted by the Republic of Cyprus (see https://www.pio.gov.cy/coronavirus).\n\nThis app takes your privacy very seriously. It only stores your data on your device (for your convenience) and sends it over the network only via the targeted SMS message to 8998.\n\nUse this app at your own risk. The app developer will not be held liable for any damage that could result from the use of this app or a possible malfunction in the app.\n\nIf you continue to use this app then you agree to these terms.</string>
+    <string name="Terms_of_use_el" translatable="false">Αυτή είναι μια εφαρμογή διευκόλυνσης. Σε βοηθά να δημιουργήσεις και να στείλεις ένα SMS μήνυμα όπως απαιτείτε από τα μέτρα κατά της εξάπλωσης του Covid-19 όπως υιοθετήθηκαν από την Κυπριακή Δημοκρατία (δες https://www.pio.gov.cy/coronavirus).\n\nΑυτή η εφαρμογή σέβεται την ιδιωτικότητα σας. Αποθηκεύει δεδομένα μόνο στη συσκευή σας (για την ευκολία σας) και τα αποστέλνει μέσω του δικτύου μόνο μέσω του μηνύματος SMS στο 8998.\n\nΧρησιμοποιείστε αυτή την εφαρμογή με δικό σας ρίσκο. Ο δημιουργός της εφαρμογής δεν θα είναι υπεύθυνος για οποιαδήποτε ζημιά μπορεί να προκύψει από την χρήση αυτής της εφαρμογής ακόμη και αν πρόκειται για σφάλμα της εφαρμογής.\n\nΗ χρήση αυτής της εφαρμογής συνεπάγεται ότι συμφωνείτε με αυτούς τους όρους.</string>
+
+    <string name="More_info" translatable="false">For info see www.pio.gov.cy/coronavirus</string>
+    <string name="More_info_el" translatable="false">Για πληροφορίες δες www.pio.gov.cy/coronavirus</string>
+
+    <string name="Send" translatable="false">Send SMS to 8998</string>
+    <string name="Send_el" translatable="false">Αποστολη SMS στο 8998</string>
+
+    <string name="The_SMS_has_been_sent">The SMS has been sent.\n\nPlease check that you have received a confirmation SMS message before proceeding.</string>
+    <string name="The_SMS_has_been_sent_el">Το SMS έχει σταλεί.\n\nΠαρακαλώ βεβαιωθείτε ότι έχετε λάβει επιβεβαιωτικό μήνυμα SMS προτού προχωρήσετε.</string>
+
+    <string name="Must_allow_SMS_to_use_this_app">You must allow sending SMS to use this app</string>
+    <string name="Must_allow_SMS_to_use_this_app_el">Πρέπει να δώσετε πρόσβαση στην αποστολή SMS για να χρησιμοποιήσετε αυτή την εφαρμογή</string>
+</resources>
