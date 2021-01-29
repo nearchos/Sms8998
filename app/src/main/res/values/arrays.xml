@@ -10,6 +10,7 @@
         <item>Physical activity</item>
         <item>Going to a ceremony</item>
         <item>Other</item>
+        <item>Barbershops, hair salons, etc.</item>
     </string-array>
 
     <string-array name="optionDetails">
@@ -17,10 +18,11 @@
         <item>Going to a shop for essential goods/services, including take away.</item>
         <item>Going to the bank for transactions not available online.</item>
         <item>Strictly necessary visits to public services or services of the wider public sector and local authorities.</item>
-        <item>Helping people who cannot take care of themselves or people who must protect themselves or who are in self-isolation and/or in places of compulsory isolation (quarantine).</item>
+        <item>Helping people who cannot take care of themselves or people who must protect themselves or who are in self-isolation and/or in places of compulsory isolation (quarantine). Also visit 1st or 2nd degree relatives (max of 2 persons).</item>
         <item>Physical activity or individual sports practiced in areas were access is permitted.</item>
         <item>Going to a ceremony (e.g. funeral, wedding, christening) of first and second degree relatives not exceeding 10 people or for individual prayer.</item>
         <item>Any other reason that may be justified under the lockdown measures (by presenting the necessary proof for each case).</item>
+        <item>Movement in order to visit barbershops, hair salons, and beauty salons.</item>
     </string-array>
 
     <string-array name="optionHeaders_el">
@@ -32,6 +34,7 @@
         <item>Φυσική Άσκηση</item>
         <item>Μετάβαση σε τελετή</item>
         <item>Άλλο</item>
+        <item>Κομμωτήρια, κουρεία, κλπ</item>
     </string-array>
 
     <string-array name="optionDetails_el">
@@ -39,10 +42,11 @@
         <item>Μετάβαση σε κατάστημα για αγορά ή προμήθεια αγαθών/υπηρεσιών πρώτης ανάγκης, περιλαμβανομένου και του take away.</item>
         <item>Μετάβαση σε τράπεζα, στο μέτρο που δεν είναι δυνατή η ηλεκτρονική συναλλαγή.</item>
         <item>Απόλυτα αναγκαίες επισκέψεις σε κρατικές υπηρεσίες ή υπηρεσίες του ευρύτερου δημόσιου τομέα και της τοπικής αυτοδιοίκησης.</item>
-        <item>Διακίνηση για παροχή βοήθειας σε άτομα που αδυνατούν να αυτοεξυπηρετηθούν ή που οφείλουν να αυτοπροστατευθούν ή βρίσκονται σε αυτοπεριορισμό ή/και σε χώρους υποχρεωτικού περιορισμού (καραντίνα).</item>
+        <item>Διακίνηση για παροχή βοήθειας σε άτομα που αδυνατούν να αυτοεξυπηρετηθούν ή που οφείλουν να αυτοπροστατευθούν ή βρίσκονται σε αυτοπεριορισμό ή/και σε χώρους υποχρεωτικού περιορισμού (καραντίνα). Επίσης επίσκεψη σε συγγενείς 1ου ή 2ου βαθμού (μέχρι 2 άτομα).</item>
         <item>Μετακίνηση για φυσική άσκηση ή ατομική άθληση, εφόσον περιορίζεται σε χώρους όπου επιτρέπεται η πρόσβαση.</item>
-        <item>Μετάβαση σε τελετή (π.χ. κηδεία, γάμος, βάφτιση) από συγγενείς πρώτου και δεύτερου βαθμού που δεν υπερβαίνουν τον αριθμό των 10 προσώπων ή για ατομική προσευχή</item>
+        <item>Μετάβαση σε τελετή (π.χ. κηδεία, γάμος, βάφτιση) από συγγενείς πρώτου και δεύτερου βαθμού που δεν υπερβαίνουν τον αριθμό των 10 προσώπων ή για ατομική προσευχή.</item>
         <item>Δήλωση οποιουδήποτε άλλου σκοπού μετακίνησης που μπορεί να δικαιολογηθεί με βάση τα μέτρα απαγόρευσης της κυκλοφορίας (με την προσκόμιση του απαραίτητου αποδεικτικού στοιχείου που ισχύει για κάθε περίπτωση). Δεστε την σελίδα του ΓΤΠ.</item>
+        <item>Μετακίνηση για επίσκεψη σε κομμωτήρια, κουρεία και ινστιτούτα αισθητικής.</item>
     </string-array>
 
 </resources>

@@ -31,7 +31,7 @@
     <string name="Id_must_be_6_letters_or_more_el" translatable="false">Τα στοιχεία ταυτοποίησης πρέπει να είναι τουλάχιστον 6 γράμματα ή ψηφία</string>
     <string name="Enter_your_postal_code" translatable="false">Enter your postal code</string>
     <string name="Enter_your_postal_code_el" translatable="false">Ειασάγετε τον ταχυδρομικό σας κώδικα</string>
-    <string name="Postal_code_details" translatable="false">This is a four digit number  such as 1234</string>
+    <string name="Postal_code_details" translatable="false">This is a four digit number such as 1234</string>
     <string name="Postal_code_details_el" translatable="false">Αυτός είναι ένας τετραψήφιος αριθμός όπως το 1234</string>
     <string name="Postal_code_must_be_4_digits" translatable="false">The Postal Code must be exactly 4 digits such as \'1234\'</string>
     <string name="Postal_code_must_be_4_digits_el" translatable="false">Ο Ταχυδρομικός Κώδικας πρέπει να είναι ακριβώς 4 ψηφία όπως το \'1234\'</string>
