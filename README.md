@@ -9,7 +9,8 @@ Developed by [aspectsense.com](https://aspectsense.com).
 
 ## Releases
 The app is available for Android only:
-- :rocket: [Download version 1.0-2](https://github.com/nearchos/Sms8998/releases/download/1.0-2/Sms8998-v1.0-2.apk) :thumbsup:
+- :rocket: [Download version 2.0-3](https://github.com/nearchos/Sms8998/releases/download/2.0-3/Sms8998-v2.0-3.apk) :thumbsup:
+This version adds new option 9 (hair salons) and addendum to option 5 (relatives visit).
 
 ## Privacy Policy
 The SMS 8998 app takes your privacy very seriously. The collected data is only stored on the device (for your convenience, so you don't need to retype them) and is never sent over the network (except via the actual SMS sent to 8998).
