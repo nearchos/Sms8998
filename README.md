@@ -9,8 +9,8 @@ Developed by [aspectsense.com](https://aspectsense.com).
 
 ## Releases
 The app is available for Android only:
-- :rocket: [Download version 2.0-3](https://github.com/nearchos/Sms8998/releases/download/2.0-3/Sms8998-v2.0-3.apk) :thumbsup:
-This version adds new option 9 (hair salons) and addendum to option 5 (relatives visit).
+- :rocket: [Download version 2.0-4](https://github.com/nearchos/Sms8998/releases/download/2.0.4/Sms8998-v2.0-4.apk) :thumbsup:
+This version amends the options 2 (flea markets), 5 (nursing homes), 9 (art galleries) as of March 1st updates (see [PIO](https://www.pio.gov.cy/coronavirus/) for details).
 
 ## Privacy Policy
 The SMS 8998 app takes your privacy very seriously. The collected data is only stored on the device (for your convenience, so you don't need to retype them) and is never sent over the network (except via the actual SMS sent to 8998).
